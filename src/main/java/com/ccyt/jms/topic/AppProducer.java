@@ -7,6 +7,7 @@ import javax.jms.*;
 
 
 /**
+ * 这是主题模式先订阅才能收到
  * Created by liweihai on 2018/7/16.
  */
 public class AppProducer {
