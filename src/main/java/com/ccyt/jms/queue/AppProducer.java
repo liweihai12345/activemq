@@ -7,6 +7,7 @@ import javax.jms.*;
 
 
 /**
+ * 队列模式不管之前之后的订阅都能收到消息
  * Created by liweihai on 2018/7/16.
  */
 public class AppProducer {
